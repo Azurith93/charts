@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/zurdi15/romm
   pullPolicy: IfNotPresent
-  tag: 1.10@sha256:d6c2eb5df269c2d7988f8a58c4df9a81115e8d4e5fd7902c3ce77709c540e3e2
+  tag: latest@sha256:5403e58d0ec714a1aa45c5caf9c897b4eb7fecb403c3041468a707bce4f6bd3b
 securityContext:
   container:
     readOnlyRootFilesystem: false
